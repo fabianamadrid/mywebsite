@@ -1,0 +1,24 @@
+---
+title: "Homework 3"
+---
+
+Welcome to my homework page! Below is my re-edited Homework 3 project for data analysis.
+
+## Introduction
+*(Type a brief sentence or two here explaining what this homework assignment was about.)*
+
+## Data Analysis
+
+Here is the code and analysis for my project:
+
+```{r}
+#| warning: false
+#| message: false
+
+# Copy and paste your original Homework 3 R script here!
+# For example:
+library(ggplot2)
+library(tidyr)
+
+# Your data loading and plotting code goes here...
+---
