@@ -11,7 +11,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/fabiana-madrid-4a6565295
 ---
 
 A little bit about me and my life.
